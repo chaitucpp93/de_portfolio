@@ -1,0 +1,17 @@
+# Logs
+*.log
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Output files
+output/
+
+# Environment files
+.env
+*.env
